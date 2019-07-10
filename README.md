@@ -1,2 +1,2 @@
 # SimpleRandomUser
-![](Screenshoot-of-giphy.mp4)
+![](ss.gif)
